@@ -1,4 +1,5 @@
-# This program will read a text file of words and find words that have three consecutive double letters
+# Phyllis Torres
+#  This program will read a text file of words and find words that have three consecutive double letters
 
 # Define variables
 tripleLetterWords = 0
